@@ -1,0 +1,155 @@
+[{
+   "file" : "seoul",
+   "data" : {
+      "11010": {
+         "FIELD2": "종로구",
+         "FIELD3": "469",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      },
+      "11020": {
+         "FIELD2": "중구",
+         "FIELD3": "54",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      },
+      "11030": {
+         "FIELD2": "용산구",
+         "FIELD3": "440",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      },
+      "11040": {
+         "FIELD2": "성동구",
+         "FIELD3": "349",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      },
+      "11050": {
+         "FIELD2": "광진구",
+         "FIELD3": "33",
+         "stroke": false,
+         "fill": "#1a80c4"
+      },
+      "11060": {
+         "FIELD2": "동대문구",
+         "FIELD3": "319",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      },
+      "11070": {
+         "FIELD2": "중랑구",
+         "FIELD3": "60",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      },
+      "11080": {
+         "FIELD2": "성북구",
+         "FIELD3": "265",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      },
+      "11090": {
+         "FIELD2": "강북구",
+         "FIELD3": "288",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      },
+      "11100": {
+         "FIELD2": "도봉구",
+         "FIELD3": "313",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      },
+      "11110": {
+         "FIELD2": "노원구",
+         "FIELD3": "316",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      },
+      "11120": {
+         "FIELD2": "은평구",
+         "FIELD3": "487",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      },
+      "11130": {
+         "FIELD2": "서대문구",
+         "FIELD3": "96",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      },
+      "11140": {
+         "FIELD2": "마포구",
+         "FIELD3": "393",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      },
+      "11150": {
+         "FIELD2": "양천구",
+         "FIELD3": "437",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      },
+      "11160": {
+         "FIELD2": "강서구",
+         "FIELD3": "353",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      },
+      "11170": {
+         "FIELD2": "구로구",
+         "FIELD3": "31",
+         "stroke": false,
+         "fill": "#1a80c4"
+      },
+      "11180": {
+         "FIELD2": "금천구",
+         "FIELD3": "349",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      },
+      "11190": {
+         "FIELD2": "영등포구",
+         "FIELD3": "472",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      },
+      "11200": {
+         "FIELD2": "동작구",
+         "FIELD3": "139",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      },
+      "11210": {
+         "FIELD2": "관악구",
+         "FIELD3": "198",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      },
+      "11220": {
+         "FIELD2": "서초구",
+         "FIELD3": "154",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      },
+      "11230": {
+         "FIELD2": "강남구",
+         "FIELD3": "37",
+         "stroke": false,
+         "fill": "#1a80c4"
+      },
+      "11240": {
+         "FIELD2": "송파구",
+         "FIELD3": "191",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      },
+      "11250": {
+         "FIELD2": "강동구",
+         "FIELD3": "353",
+         "stroke": false,
+         "fill": "#cc3d3d"
+      }
+   }
+}]
