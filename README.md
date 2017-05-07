@@ -26,7 +26,7 @@
  + "FALSE" -> false (" " 제외)
  + 제일 바깥을 감싸는 배열 생성해주고
  + 한단계 아래 key는 아래 그림과 같이 해준다
- + ![image1](
+ + ![image1](https://github.com/woons/re_coloring_json/blob/master/image1.png)
 
  4. Illustrator 실행한 후 
   + ai scripts -> colorize artwork 실행
