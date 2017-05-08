@@ -1,6 +1,9 @@
 ### re-coloring-illustrator with json
 --------
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_wg21BzYLE4/0.jpg)](https://youtu.be/_wg21BzYLE4)
+
+
 0. ai-scripts 설치
  + terminal 실행
  ```
